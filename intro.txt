@@ -1,0 +1,2 @@
+Hello, I am Shivani Nikam and this is my project, TINDOG!
+It is basically a tinder for dog.
